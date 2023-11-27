@@ -1,0 +1,17 @@
+﻿@model Title
+@{
+    ViewData["Title"] = "Balancea tu vida";
+}
+<div class="section-index">
+    <div class="text-center">
+        <h1 class="display-4">@Model.MainTitle</h1>
+        <p>@Model.Description</p>
+
+        <img class=""
+            id="image"
+           src="~/images/ruedaVida.jpg" alt="rueda de la vida" />
+    </div>
+    <partial name="DescriptionIndex" />
+    <partial name="WheelIndex" />
+
+</div>

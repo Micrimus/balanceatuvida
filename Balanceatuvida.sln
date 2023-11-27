@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanceatuvida", "Balanceatuvida\Balanceatuvida.csproj", "{814B9B34-97B6-453A-83F3-E3E4B79DE404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814B9B34-97B6-453A-83F3-E3E4B79DE404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814B9B34-97B6-453A-83F3-E3E4B79DE404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814B9B34-97B6-453A-83F3-E3E4B79DE404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814B9B34-97B6-453A-83F3-E3E4B79DE404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677E5040-D3CC-4653-A0A5-1F1B7CF6B7BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿#image {
+    width: 300px;
+    margin: 2rem 0;
+}
+.section-index {
+    background-color: #b1c4a7
+}
+.section-description
+{
+    margin:5rem 0 10rem 0;
+    color: black;
+}
+.section-description h1
+{
+    margin-bottom: 1rem;
+}
+.section-description p
+{
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
